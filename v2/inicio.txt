@@ -1,0 +1,19 @@
+
+
+==> usando segmentos
+
+[ A = (0,0), B = (1,1) ] Distancia = 1.41mm
+
+[ A = (0.00,0.00), B = (2.00,2.00) ] Distancia = 2.83mm
+
+
+
+==> mais testes
+
+Usando variaveis: [ A = (0.00,0.00), B = (1.00,4.00) ] Distancia = 4.12mm
+
+Usando constantes:
+[ A = (0.00,0.00), B = (2.00,3.00) ] Distancia = 3.61mm
+
+[ A = (0.00,0.00), B = (1.00,2.00) ] Distancia = 2.24mm
+
